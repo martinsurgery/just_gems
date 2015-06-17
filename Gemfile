@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'acts_as_list', '0.6.0'
+gem 'acts_as_list', '0.7.2'
 gem 'ancestry', '2.1.0'
 gem 'autoprefixer-rails', '5.2.0.1'
 gem "better_errors", "2.1.1"
